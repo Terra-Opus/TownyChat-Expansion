@@ -7,7 +7,7 @@
     <groupId>com.extendedclip.papi.expansion</groupId>
     <artifactId>townychat</artifactId>
     <name>Expansion-TownyChat</name>
-    <version>1.1</version>
+    <version>1.2</version>
 
     <description>A Placeholder Expansion for TownyChat by LlmDl</description>
     <properties>
@@ -45,12 +45,12 @@
         <dependency>
             <groupId>com.github.TownyAdvanced</groupId>
             <artifactId>TownyChat</artifactId>
-            <version>0.86</version>
+            <version>0.87</version>
         </dependency>
         <dependency>
             <groupId>com.github.TownyAdvanced</groupId>
             <artifactId>Towny</artifactId>
-            <version>0.96.6.0</version>
+            <version>0.96.7.0</version>
         </dependency>
     </dependencies>
 
